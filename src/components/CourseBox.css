@@ -1,0 +1,28 @@
+.main{
+  height: 50%;
+  width: 80%;
+  border: 2em solid #999999;
+  padding: 1em
+;
+}
+.main_title{
+  display: flex;
+  margin-top: 0.5em;
+  align-items: center;
+  font-size: 2rem;
+
+}
+.cal_img{
+  width: 5%;
+}
+
+.mix_button_div_style{
+  margin-left: auto;
+}
+
+.mix_button_style{
+  background-color: #999999;
+  border: 1px solid #666666;
+  width: 15em;
+  height: 3em;
+}

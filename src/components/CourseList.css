@@ -1,0 +1,102 @@
+.CourseList{
+  display: flex;
+  margin-bottom: 0.5rem;
+  border: 1px solid #444444;
+  padding: 1em;
+}
+
+.contents{
+  width: 100%;
+}
+.checkbox{
+  display: flex;
+  width: 5%;
+  align-items: center;
+  justify-content: center;
+}
+.check_img{
+  width: 50%;
+  height: 20%;
+}
+.title{
+  display: flex;
+  width: 100%;
+  margin-bottom: 1%;
+  margin-left: 1%;
+
+
+}
+.content{
+  display: flex;
+
+}
+
+.course_title{
+  display: inline-block;
+  color: aqua;
+  width: auto;
+  text-align: left;
+  font-size: 20px;
+  font-weight: bold;
+  margin-right: 2em;
+
+}
+.course_class{
+  display: inline-block;
+  width: auto;
+  text-align: left;
+  margin-right: 2em;
+
+
+}
+.course_teacher{
+  display: inline-block;
+  width: auto;
+
+  margin-right: 2em;
+  text-align: left;
+
+}
+
+.course_list_box{
+  border: 1px solid #333333;
+  width: 4em;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  margin-left: 1%;
+  margin-right: 1%;
+
+}
+.open_button_div_style{
+  width: auto;
+
+  margin-right: 2em;
+  display: inline-block;
+
+}
+
+.open_button_style{
+  border-radius: 1em;
+  text-align: center;
+
+}
+
+
+
+.down_button_div_style{
+  width: auto;
+
+  margin-right: 2em;
+  display: inline-block;
+  margin-left: auto;
+
+
+}
+.down_button_style{
+  background: skyblue;
+  text-align: center;
+  border: 1px solid skyblue;
+  color: white;
+
+}

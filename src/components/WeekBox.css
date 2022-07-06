@@ -1,0 +1,11 @@
+.week_box{
+  border: 1px solid #333333;
+  width: 4em;
+  text-align: center;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+
+.com_img{
+  width: 100%;
+}
